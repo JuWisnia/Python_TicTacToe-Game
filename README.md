@@ -27,17 +27,6 @@ Tic-tac-toe is a game for two players who take turns marking the spaces in a thr
 2. First Person decides, which symbol (token) he wants to play (X or O). Choosen symbol is assigned to Player 1, and second one to Player 2. 
 
 3. A 3x3 board is qreated and presented to the Players:
-   |   |
- X | X | O
-   |   |
------------
-   |   |
- O | O | X
-   |   |
------------
-   |   |
- X | O | X
-   |   |
 
 4. Player 1 and 2 take turns making moves:
 - each Player decided in which field his symbol should be placed (the aim is to create a straight line horizontally, vertically or diagonally),
